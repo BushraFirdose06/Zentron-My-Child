@@ -1,0 +1,14 @@
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+
+# Audio
+*.mp3
+
+# Data
+Data/
+ChromeProfile/
